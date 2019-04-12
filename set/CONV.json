@@ -631,7 +631,7 @@
         "rarity_code": "C",
         "reprint_of": "01072",
         "set_code": "CONV",
-        "text": "Look at 2 random cards in an opponent's hand and discard each of those cards that is an event",
+        "text": "Look at 2 random cards in an opponent's hand and discard each of those cards that is an event.",
         "ttscardid": "49924",
         "type_code": "event"
     },
