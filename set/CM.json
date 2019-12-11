@@ -1,6 +1,154 @@
 [
     {
         "affiliation_code": "villain",
+        "code": "12001",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "flavor": "\"I was the last survivor\"",
+        "has_die": true,
+        "has_errata": false,
+        "health": 14,
+        "illustrator": "Martin de Diego Sádaba",
+        "is_unique": true,
+        "name": "Darth Bane",
+        "points": "17/22",
+        "position": 1,
+        "rarity_code": "L",
+        "set_code": "CM",
+        "sides": [
+            "2RD",
+            "3MD",
+            "2Sh",
+            "1R",
+            "Sp",
+            "-"
+        ],
+        "subtitle": "Ancient Master",
+        "subtypes": [
+            "sith"
+        ],
+        "text": "Decrease the cost of the first <i>ability</i> you play on this character each game by 2.\n[special] - Choose an upgrade on this character and deal indirect damage to an opponent equal to that upgrade's cost.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "12002",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "health": 12,
+        "illustrator": " ",
+        "is_unique": true,
+        "name": "Darth Vader",
+        "points": "12/15",
+        "position": 2,
+        "rarity_code": "R",
+        "set_code": "CM",
+        "sides": [
+            "2Dc",
+            "1Sh",
+            "1R",
+            "Sp",
+            "Sp",
+            "-"
+        ],
+        "subtitle": "Victor Leader",
+        "subtypes": [
+            "leader",
+            "pilot",
+            "sith"
+        ],
+        "text": "Piloting.\n[special] - Deal 2 damage to a character. Then, if that character was just defeated, discard the <i>vehicle</i> it was piloting.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "12004",
+        "deck_limit": 4,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "health": 8,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Snoke's Praetorian Guard",
+        "points": "8/11",
+        "position": 4,
+        "rarity_code": "R",
+        "set_code": "CM",
+        "sides": [
+            "1MD",
+            "2MD",
+            "2MD1",
+            "1Sh",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "guard"
+        ],
+        "text": "After you activate this character, you may remove one of its character dice showing damage to remove a die showing damage with a value of 2 or less.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "12005",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Cassandre Bolan",
+        "is_unique": false,
+        "name": "Recurring Nightmare",
+        "position": 5,
+        "rarity_code": "R",
+        "set_code": "CM",
+        "sides": [
+            "1MD",
+            "1MD",
+            "2MD",
+            "3MD1",
+            "-",
+            "-"
+        ],
+        "subtypes": [
+            "curse"
+        ],
+        "text": "This die can only be resolved against attached character.",
+        "type_code": "downgrade"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "12016",
+        "cost": 5,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Death Field",
+        "position": 16,
+        "rarity_code": "L",
+        "set_code": "CM",
+        "sides": [
+            "2ID",
+            "3ID",
+            "3ID",
+            "4ID1",
+            "2Dc",
+            "Sp"
+        ],
+        "subtypes": [
+            "ability"
+        ],
+        "text": "Blue character only.\n<b>Action</b> - Exhaust this upgrade to roll this die into your pool.\n[special] - Deal 2 damage to each of an opponent's characters.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "12021",
         "deck_limit": 1,
         "faction_code": "red",
@@ -28,6 +176,35 @@
             "leader"
         ],
         "text": "The point value of your <i>Death Star</i> plot is decreased by 1.\nAfter you activate this character, you may turn one of your dice to a side showing a value of 1.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "12023",
+        "deck_limit": 4,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "health": 9,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Imperial Death Trooper",
+        "points": "8/11",
+        "position": 23,
+        "rarity_code": "R",
+        "set_code": "CM",
+        "sides": [
+            "1RD",
+            "2RD1",
+            "+2RD",
+            "1R",
+            "+1R",
+            "-"
+        ],
+        "subtypes": [
+            "trooper"
+        ],
+        "text": "While you control Director Krennic, this character has <i>Guardian</i>.\n<b>Power Action</b> - Turn this die to a side showing the same symbol and value as another one of your dice.",
         "type_code": "character"
     },
     {
@@ -84,6 +261,75 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "12040",
+        "deck_limit": 5,
+        "faction_code": "yellow",
+        "flavor": "Their job conditions are so toxic that sentinels must wear sealed, radiation-proof suits",
+        "has_die": false,
+        "has_errata": false,
+        "health": 7,
+        "illustrator": "Paulo Puggioni",
+        "is_unique": false,
+        "name": "Pyke Sentinel",
+        "points": "6",
+        "position": 40,
+        "rarity_code": "U",
+        "set_code": "CM",
+        "subtypes": [
+            "guard",
+            "scoundrel"
+        ],
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "12042",
+        "deck_limit": 3,
+        "faction_code": "yellow",
+        "flavor": "Their predatory origins made Trandoshans gifted hunters",
+        "has_die": true,
+        "has_errata": false,
+        "health": 8,
+        "illustrator": "Lukasz Jaskolski",
+        "is_unique": false,
+        "name": "Trandoshan Hunter",
+        "points": "9/11",
+        "position": 42,
+        "rarity_code": "R",
+        "set_code": "CM",
+        "sides": [
+            "1RD",
+            "2RD",
+            "3RD1",
+            "1Dr",
+            "1Dc",
+            "-"
+        ],
+        "subtypes": [
+            "bounty-hunter"
+        ],
+        "text": "<b>Power Action</b> - Spot a downgrade to turn one of your <i>bounty hunter</i> dice to a side showing damage.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "12048",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Jorge Gonzalez",
+        "is_unique": false,
+        "name": "Warning Shot",
+        "position": 48,
+        "rarity_code": "C",
+        "set_code": "CM",
+        "text": "Choose and opponent's die and remove it unless they give you one resource.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "12050",
         "cost": 3,
         "deck_limit": 2,
@@ -107,8 +353,40 @@
         "subtypes": [
             "vehicle"
         ],
-        "text": "Your Bobba Fett and Jango Fett each have Piloting.\nAfter this support becomes piloted by a <i>bounty-hunter</i>, you may deal 1 damage to a character.",
+        "text": "Your Boba Fett and Jango Fett each have Piloting.\nAfter this support becomes piloted by a <i>bounty-hunter</i>, you may deal 1 damage to a character.",
         "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "12053",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "flavor": "\"There's no time for caution.\"",
+        "has_die": true,
+        "has_errata": false,
+        "health": 13,
+        "illustrator": "Ryan Valle",
+        "is_unique": true,
+        "name": "Anakin Skywalker",
+        "points": "15/19",
+        "position": 53,
+        "rarity_code": "L",
+        "set_code": "CM",
+        "sides": [
+            "1MD",
+            "2MD",
+            "4MD1",
+            "1Sh",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Dedicated Mentor",
+        "subtypes": [
+            "jedi",
+            "leader"
+        ],
+        "text": "After you activate this character, you may discard a card from your hand to move 1 shield from a character to another character. Then draw a card if you moved that shield to an <i>apprentice</i>.",
+        "type_code": "character"
     },
     {
         "affiliation_code": "hero",
@@ -138,7 +416,7 @@
             "apprentice",
             "pilot"
         ],
-        "text": "Piloting.\nThe point value of your <i>Death Star</i> plot is decreased by 1.\nBefore you resolvea support die of a <i>vehicle</i> piloted by this character, you may increase its value by 1.",
+        "text": "Piloting.\nThe point value of your <i>Death Star</i> plot is decreased by 1.\nBefore you resolve a support die of a <i>vehicle</i> piloted by this character, you may increase its value by 1.",
         "type_code": "character"
     },
     {
@@ -188,6 +466,97 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "12071",
+        "deck_limit": 4,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "health": 10,
+        "illustrator": "Alex Kim",
+        "is_unique": false,
+        "name": "Kashyyk Warrior",
+        "points": "8/11",
+        "position": 71,
+        "rarity_code": "R",
+        "set_code": "CM",
+        "sides": [
+            "1MD",
+            "1MD",
+            "2MD1",
+            "1Dr",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "wookiee",
+            "trooper"
+        ],
+        "text": "Before you resolve one of this character's character dice showing damage, increase its value by 1 if this character has 6 or more damage.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "12073",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "health": 12,
+        "illustrator": " ",
+        "is_unique": true,
+        "name": "Poe Dameron",
+        "points": "14/17",
+        "position": 73,
+        "rarity_code": "L",
+        "set_code": "CM",
+        "sides": [
+            "2RD",
+            "2RD",
+            "2ID",
+            "1Dc",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Reckless Aviator",
+        "subtypes": [
+            "pilot"
+        ],
+        "text": "Piloting.\n<b>Power Action</b> - Spot a <i>vehicle</i> that has no damage to place 1 damage on it. Then resolve its support die showing damage, increasing its value by 1, or by 2 instead if this character is piloting it.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "12074",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "health": 11,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Tarfful",
+        "points": "11/14",
+        "position": 74,
+        "rarity_code": "R",
+        "set_code": "CM",
+        "sides": [
+            "1RD",
+            "1MD",
+            "2MD",
+            "2F",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Chieftain of Kachirho",
+        "subtypes": [
+            "wookiee",
+            "leader"
+        ],
+        "text": "Each other <i>Wookiee</i> character you control has +1 health.\nBefore you resolve one of this character's character dice showing damage, increase its value by 1 if this character has 6 or more damage.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "12080",
         "cost": 0,
         "deck_limit": 2,
@@ -222,6 +591,247 @@
         "type_code": "plot"
     },
     {
+        "affiliation_code": "hero",
+        "code": "12083",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Vlad Ricean",
+        "is_unique": true,
+        "name": "Ghost",
+        "position": 83,
+        "rarity_code": "L",
+        "set_code": "CM",
+        "sides": [
+            "2RD",
+            "2RD",
+            "+3RD",
+            "2Dr",
+            "1Sh",
+            "1R"
+        ],
+        "subtypes": [
+            "vehicle"
+        ],
+        "text": "Ambush.\nAfter this support enters play, you may activate a <i>Spectre</i> you control.\nAfter you resolve this die, you may give each character piloting this support 1 shield.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "12085",
+        "cost": 6,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flavor": "The rebel base on Yavin 4 was cleverly hidden beneath an old Massassi temple.",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Matt Bradbury",
+        "is_unique": false,
+        "name": "Rebel Hangar",
+        "position": 85,
+        "rarity_code": "L",
+        "set_code": "CM",
+        "sides": [
+            "2ID",
+            "1F",
+            "1Sh",
+            "1R",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "location"
+        ],
+        "text": "After you play this support, search your deck for up to 2 <i>vehicles</i> with a combined cost of 4 or less and play them for free. Shuffle your deck.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "12087",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flavor": "A wound that would kill a human will only make a Wookiee angry.",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": true,
+        "name": "Fortitude",
+        "position": 87,
+        "rarity_code": "C",
+        "set_code": "CM",
+        "text": "Attached character has +3 health, or +4 health instead if it is a <i>Wookiee</i>.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "12089",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "health": 10,
+        "illustrator": "Andreia Ugrai",
+        "is_unique": true,
+        "name": "Sabine Wren",
+        "points": "10/13",
+        "position": 89,
+        "rarity_code": "R",
+        "set_code": "CM",
+        "sides": [
+            "1RD",
+            "2RD",
+            "1Sh",
+            "1R",
+            "Sp",
+            "-"
+        ],
+        "subtitle": "Artistic and Resourceful",
+        "subtypes": [
+            "pilot",
+            "spectre"
+        ],
+        "text": "Piloting.\n[special] - Deal 2 indirect damage to an opponent, or 3 indirect damage instead if you have a Blue die, a Red die, and another Yellow die in your pool.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "12090",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "flavor": "\"I am excellent at causing pain.\"",
+        "has_die": true,
+        "has_errata": false,
+        "health": 12,
+        "illustrator": "Darren Tan",
+        "is_unique": true,
+        "name": "Sinjir Rath Velus",
+        "points": "14/17",
+        "position": 90,
+        "rarity_code": "L",
+        "set_code": "CM",
+        "sides": [
+            "2MD",
+            "2ID",
+            "1Dc",
+            "1Sh",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Ex-Loyalty Officer",
+        "subtypes": [
+            "scoundrel"
+        ],
+        "text": "After you resolve one of this character's character dice, you may place a card from your hand on the bottom of your deck to remove a die showing the same symbol as that die.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "12091",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "health": 11,
+        "illustrator": "David Auden Nash",
+        "is_unique": true,
+        "name": "Torra Doza",
+        "points": "12/15",
+        "position": 91,
+        "rarity_code": "R",
+        "set_code": "CM",
+        "sides": [
+            "2RD",
+            "2ID",
+            "1Dr",
+            "1Sh",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Energetic Thrill-Seeker",
+        "subtypes": [
+            "pilot"
+        ],
+        "text": "Piloting.\nAfter this character begins piloting a <i>vehicle</i>, you may resolve one of that <i>vehicle's</i> support or upgrade dice.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "12098",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Mariusz Gandzel",
+        "is_unique": true,
+        "name": "Blue Ace",
+        "position": 98,
+        "rarity_code": "R",
+        "set_code": "CM",
+        "sides": [
+            "1RD",
+            "2ID",
+            "2Dr",
+            "2Sh",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "vehicle"
+        ],
+        "text": "Before you resolve this die, remove any number of resources from this support to increase its value by that number.\nAfter you resolve this die, you may place 1 resource on this support.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "12105",
+        "deck_limit": 1,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "David Hovay",
+        "is_unique": false,
+        "name": "Valorous Tribe",
+        "points": "3",
+        "position": 105,
+        "rarity_code": "U",
+        "set_code": "CM",
+        "text": "<b>Action</b> - Exhaust this plot to move up to 2 damage from a character to a character you control. Then you may spot a <i>Wookiee</i> to heal 1 damage from a character.",
+        "type_code": "plot"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "12114",
+        "cost": 4,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Paolo Puggioni",
+        "is_unique": false,
+        "name": "Shien Mastery",
+        "position": 114,
+        "rarity_code": "L",
+        "set_code": "CM",
+        "sides": [
+            "3MD",
+            "2Sh",
+            "2Sh",
+            "2R",
+            "Sp",
+            "Sp"
+        ],
+        "subtypes": [
+            "ability",
+            "form"
+        ],
+        "text": "Blue character only. Limit 1 <i>form</i> per character.\nAfter you play this upgrade, you may roll this die into your pool.\n[special] - Deal 2 damage to a character. You may remove a die showing damage.",
+        "type_code": "upgrade"
+    },
+    {
         "affiliation_code": "neutral",
         "code": "12126",
         "cost": 1,
@@ -235,7 +845,24 @@
         "position": 126,
         "rarity_code": "U",
         "set_code": "CM",
-        "text": "<b>Action</b> - Exhaust this upgrade to place 1 resource on or remove 2 shields from your <i>Death Star</i> plot.\nAfter an opponent's effect deals damage to attached character, the may move this card to one of their characters.",
+        "text": "<b>Action</b> - Exhaust this upgrade to place 1 resource on or remove 2 shields from your <i>Death Star</i> plot.\nAfter an opponent's effect deals damage to attached character, they may move this card to one of their characters.",
         "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "12139",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Anthony Devine",
+        "is_unique": false,
+        "name": "Coaxium Heist",
+        "points": "0",
+        "position": 139,
+        "rarity_code": "U",
+        "set_code": "CM",
+        "text": "Include only if you bring a set-aside Pyke Sentinel ([CM]40) to the game. After set-up, add that character to an opponent's team.\n<b>Action</b> - If no opponent controls a Pyke Sentinel, set this plot aside and remove 4 of your dice each showing different symbols to gain 10 resources.",
+        "type_code": "plot"
     }
 ]
