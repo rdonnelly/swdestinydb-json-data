@@ -64,6 +64,37 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "12003",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "health": 11,
+        "illustrator": "Aleksandr Eiichev",
+        "is_unique": true,
+        "name": "Pong Krell",
+        "points": "12/15",
+        "position": 3,
+        "rarity_code": "R",
+        "set_code": "CM",
+        "sides": [
+            "1MD",
+            "2MD",
+            "1F",
+            "1Dc",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Deadly Imposter",
+        "subtypes": [
+            "jedi",
+            "leader"
+        ],
+        "text": "You can include up to 4 different Blue hero cards in your deck.\nAfter you activate this character, you may place a hero card in any player's discard pile on the bottom of their deck. Then deal 1 damage to a character.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "12004",
         "deck_limit": 4,
         "faction_code": "blue",
@@ -121,6 +152,41 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "12009",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "flavor": "\"You dare to attack a Jedi?\" <cite>Pong Krell</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Aleksandr Eiichev",
+        "is_unique": false,
+        "name": "Quad Slam",
+        "position": 9,
+        "rarity_code": "U",
+        "set_code": "CM",
+        "text": "Choose up to 4 characters and remove one character die belonging to each of them.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "12012",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Rule of Two",
+        "points": "0",
+        "position": 12,
+        "rarity_code": "U",
+        "set_code": "CM",
+        "text": "If you do not control exactly 2 characters, one that is a <i>Sith</i> and the other an <i>apprentice</i>, set this plot aside an deal 1 indirect damage to yourself.\n<b>Action</b> - If you have exactly one character die in your pool, exhaust this plot to resolve it, increasing its value by 1.",
+        "type_code": "plot"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "12016",
         "cost": 5,
         "deck_limit": 2,
@@ -146,6 +212,66 @@
         ],
         "text": "Blue character only.\n<b>Action</b> - Exhaust this upgrade to roll this die into your pool.\n[special] - Deal 2 damage to each of an opponent's characters.",
         "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "12017",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Aleksandr Eiichev",
+        "is_unique": true,
+        "name": "Pong Krell's Lightsaber",
+        "position": 17,
+        "rarity_code": "R",
+        "set_code": "CM",
+        "sides": [
+            "2MD",
+            "+2MD",
+            "1Sh",
+            "1R",
+            "Sp1",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "<b>Power Action</b> - Spot Pong Krell or spend 1 resource to roll a set-aside copy of this die ([CM]17) into your pool. Set that die aside after it is resolved or removed.\n[special] - Deal 2 damage to up to 2 characters.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "12020",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "flavor": "\"You will come with us, or be destroyed.\"",
+        "has_die": true,
+        "has_errata": false,
+        "health": 11,
+        "illustrator": "David Auden Nash",
+        "is_unique": true,
+        "name": "Commander Pyre",
+        "points": "11/14",
+        "position": 20,
+        "rarity_code": "R",
+        "set_code": "CM",
+        "sides": [
+            "1RD",
+            "2RD",
+            "2RD1",
+            "1F",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Harsh Negotiator",
+        "subtypes": [
+            "leader",
+            "trooper"
+        ],
+        "text": "After you claim or take control of the battlefield, you may deal 1 indirect damage ([indirect]) to an opponent.",
+        "type_code": "character"
     },
     {
         "affiliation_code": "villain",
@@ -180,6 +306,36 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "12022",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "health": 12,
+        "illustrator": "David Auden Nash",
+        "is_unique": true,
+        "name": "Elrik Vonreg",
+        "points": "13/16",
+        "position": 22,
+        "rarity_code": "R",
+        "set_code": "CM",
+        "sides": [
+            "1RD",
+            "2RD",
+            "3RD1",
+            "1Dr",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Major Baron",
+        "subtypes": [
+            "pilot"
+        ],
+        "text": "Piloting.\nWhile one or more of this character's character dice are in your pool, its piloted <i>vehicle's</i> support and upgrade dice cannot be removed by opponent's effects.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "12023",
         "deck_limit": 4,
         "faction_code": "red",
@@ -209,6 +365,62 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "12024",
+        "deck_limit": 5,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "health": 7,
+        "illustrator": "Mark Molnar",
+        "is_unique": false,
+        "name": "Imperial Pilot",
+        "points": "6",
+        "position": 24,
+        "rarity_code": "U",
+        "set_code": "CM",
+        "subtypes": [
+            "pilot"
+        ],
+        "text": "Piloting.\n<b>Power Action</b> - If this character is piloting a Red <i>vehicle</i>, turn its support die to any side.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "12025",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flavor": "\"You have a lovely voice, General Syndulla.\" <cite>Arindha Pryce</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Javier Charro Martinez",
+        "is_unique": false,
+        "name": "Cruel Methods",
+        "position": 25,
+        "rarity_code": "C",
+        "set_code": "CM",
+        "text": "After you claim or take control of the battlefield, you may deal 1 damage to attached character.",
+        "type_code": "downgrade"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "12029",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Taking Charge",
+        "position": 29,
+        "rarity_code": "C",
+        "set_code": "CM",
+        "text": "Ambush.\nIf you control the battlefield, remove a die. If you do not control the battlefield, take control of it and you may reroll a die.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "12030",
         "deck_limit": 1,
         "faction_code": "red",
@@ -227,6 +439,35 @@
         ],
         "text": "<b>Action</b> - Remove 2 of your dice each showing a resource ([resource]) to place 2 resources on this plot. Then, if 15 or more resources are on this plot, you win the game.",
         "type_code": "plot"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "12031",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flavor": "\"We can't even touch him!\" <cite>Mia Gabon</cite>",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Mariusz Gandzel",
+        "is_unique": true,
+        "name": "Elrik Vonreg's TIE Interceptor",
+        "position": 31,
+        "rarity_code": "R",
+        "set_code": "CM",
+        "sides": [
+            "2RD",
+            "+3RD",
+            "2ID",
+            "3Dr",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "vehicle"
+        ],
+        "text": "<b>Action</b> - If Elrik Vonreg is piloting this support, remove this die to discard an opponent's <i>vehicle</i> from play that costs equal to or less than the value showing on this die.",
+        "type_code": "support"
     },
     {
         "affiliation_code": "villain",
@@ -390,6 +631,37 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "12055",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "health": 9,
+        "illustrator": "Borja Pindado",
+        "is_unique": true,
+        "name": "Kanan Jarrus",
+        "points": "9/12",
+        "position": 55,
+        "rarity_code": "R",
+        "set_code": "CM",
+        "sides": [
+            "1MD",
+            "2MD",
+            "1Dc",
+            "1Sh",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Jedi Exile",
+        "subtypes": [
+            "jedi",
+            "spectre"
+        ],
+        "text": "This character's point value is decreased by 1 if your team has another <i>Spectre</i>.\nAfter you activate this character, you may choose a symbol and a die. Then an opponent turns that die to a side not showing the chosen symbol.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "12056",
         "deck_limit": 1,
         "faction_code": "blue",
@@ -438,6 +710,40 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "12065",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Jedi Trials",
+        "points": "2",
+        "position": 65,
+        "rarity_code": "U",
+        "set_code": "CM",
+        "text": "<b>Action</b> - Spot an <i>apprentice</i> character that has 3 Blue <i>abilities</i>, 3 shields, and its character dice are showing a combined value of 3 or more. Then heal 3 damage from it, ready it, it gains <i>Jedi</i> and it gains 1 die <em>(add a set-aside copy of its character die on it)</em>. Set this plot aside.",
+        "type_code": "plot"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "12065",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Andreas Zafiratos",
+        "is_unique": false,
+        "name": "Jedi Trials",
+        "points": "2",
+        "position": 65,
+        "rarity_code": "U",
+        "set_code": "CM",
+        "text": "<b>Action</b> - Spot a <i>apprentice</i> character that has 3 Blue <i>abilities</i>, 3 shields, and its character dice are showing a combined value of 3 or more. Then heal 3 damage from it, ready it, it gains <i>Jedi</i>, and it gains 1 die <em>(add a set-aside copy of its character die on it)</em>. Set this plot aside.",
+        "type_code": "plot"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "12066",
         "cost": 2,
         "deck_limit": 2,
@@ -463,6 +769,94 @@
         ],
         "text": "<b>Power Action</b> - Reroll this die or, if Luke Skywalker is piloting this support, turn this die to any side.",
         "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "12067",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Tiziano Baracchi",
+        "is_unique": true,
+        "name": "Anakin Skywalker's Lightsaber",
+        "position": 67,
+        "rarity_code": "L",
+        "set_code": "CM",
+        "sides": [
+            "2MD",
+            "2MD",
+            "+2MD",
+            "2Sh",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "Redeploy.\nDiscard this upgrade from play if you control Rey's Lightsaber.\nAfter you play this upgrade, give a character you don't control 1 shield. Then give a character 2 shields.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "12068",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "JB Casacop",
+        "is_unique": true,
+        "name": "Kana Jarrus' Lightsaber",
+        "position": 68,
+        "rarity_code": "R",
+        "set_code": "CM",
+        "sides": [
+            "2MD",
+            "3MD1",
+            "+3MD",
+            "1Sh",
+            "+2Sh",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "After an opponent's die is turned, you may turn this die to any side. Then, if this upgrade is on Kanan Jarrus, you may exhaust it to turn one of his character dice to any side.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "12070",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "health": 9,
+        "illustrator": "Audrey Hotte",
+        "is_unique": true,
+        "name": "Hera Syndulla",
+        "points": "9/12",
+        "position": 70,
+        "rarity_code": "L",
+        "set_code": "CM",
+        "sides": [
+            "1RD",
+            "2RD",
+            "1F",
+            "1F",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Seasoned Captain",
+        "subtypes": [
+            "leader",
+            "pilot",
+            "spectre"
+        ],
+        "text": "Piloting.\nAfter this character begins piloting a <i>vehicle</i>, you may spend 2 resources to ready that <i>vehicle</i>.",
+        "type_code": "character"
     },
     {
         "affiliation_code": "hero",
@@ -786,6 +1180,72 @@
         "type_code": "support"
     },
     {
+        "affiliation_code": "hero",
+        "code": "12100",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "flavor": "\"It's some of my best work\" <cite>Sabrine Wren</cite>",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Logan Feliciano",
+        "is_unique": true,
+        "name": "Sabine Wren's TIE Fighter",
+        "position": 100,
+        "rarity_code": "R",
+        "set_code": "CM",
+        "sides": [
+            "1RD",
+            "+2RD",
+            "+2RD",
+            "1Dr",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "vehicle"
+        ],
+        "text": "Ambush.\nAfter this die modifies a <i>Spectre</i> die, you may discard a card from your hand to roll this die into your pool.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "12101",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Custom Paint Job",
+        "position": 101,
+        "rarity_code": "U",
+        "set_code": "CM",
+        "subtypes": [
+            "mod"
+        ],
+        "text": "Modify <i>vehicle</i> support.\nAfter you play this upgrade, choose a color. Attached <i>vehicle</i> and its die become that color. Then reroll up to 2 dice.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "12104",
+        "deck_limit": 1,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Audrey Hotte",
+        "is_unique": false,
+        "name": "Spectre Cell",
+        "points": "-1",
+        "position": 104,
+        "rarity_code": "U",
+        "set_code": "CM",
+        "text": "Include only if each character on your team is a <i>Spectre</i>",
+        "type_code": "plot"
+    },
+    {
         "affiliation_code": "neutral",
         "code": "12105",
         "deck_limit": 1,
@@ -801,6 +1261,41 @@
         "set_code": "CM",
         "text": "<b>Action</b> - Exhaust this plot to move up to 2 damage from a character to a character you control. Then you may spot a <i>Wookiee</i> to heal 1 damage from a character.",
         "type_code": "plot"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "12107",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "flavor": "\"Padawan, terror is not a weapon the Jedi use.\" <cite>Luminara Undili</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Bestow Wisdom",
+        "position": 107,
+        "rarity_code": "U",
+        "set_code": "CM",
+        "text": "Spot a <i>Jedi</i> or <i>Sith</i> to move up to 2 Blue <i>abilities</i> from that character to an <i>apprentice</i> character.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "12110",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Javier Charro Martinez",
+        "is_unique": false,
+        "name": "Infuse The Force",
+        "position": 110,
+        "rarity_code": "C",
+        "set_code": "CM",
+        "text": "Spot a <i>Sith</i> to deal 1 damage to a character.\nSpot a <i>Jedi</i> to give a character 1 shield.\nSpot an <i>apprentice</i> to draw a card.",
+        "type_code": "event"
     },
     {
         "affiliation_code": "neutral",
@@ -833,6 +1328,23 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "12117",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Mariusz Gandzel",
+        "is_unique": false,
+        "name": "Assail",
+        "position": 117,
+        "rarity_code": "C",
+        "set_code": "CM",
+        "text": "Ambush.\nSpot a piloted <i>vehicle</i> to remove a die.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "12126",
         "cost": 1,
         "deck_limit": 2,
@@ -846,6 +1358,23 @@
         "rarity_code": "U",
         "set_code": "CM",
         "text": "<b>Action</b> - Exhaust this upgrade to place 1 resource on or remove 2 shields from your <i>Death Star</i> plot.\nAfter an opponent's effect deals damage to attached character, they may move this card to one of their characters.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "12128",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Jeff Lee Johnson",
+        "is_unique": false,
+        "name": "Licensed To Fly",
+        "position": 128,
+        "rarity_code": "C",
+        "set_code": "CM",
+        "text": "Attached character gains <i>pilot</i> and has Piloting.",
         "type_code": "upgrade"
     },
     {
@@ -864,5 +1393,22 @@
         "set_code": "CM",
         "text": "Include only if you bring a set-aside Pyke Sentinel ([CM]40) to the game. After set-up, add that character to an opponent's team.\n<b>Action</b> - If no opponent controls a Pyke Sentinel, set this plot aside and remove 4 of your dice each showing different symbols to gain 10 resources.",
         "type_code": "plot"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "12149",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Matt Bradbury",
+        "is_unique": false,
+        "name": "Eject",
+        "position": 149,
+        "rarity_code": "U",
+        "set_code": "CM",
+        "text": "Ambush.\nDiscard a <i>vehicle</i> you control to heal 2 damage from one of its piloting characters and give that character 2 shields.",
+        "type_code": "event"
     }
 ]
