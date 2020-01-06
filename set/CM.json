@@ -964,6 +964,10 @@
         "position": 81,
         "rarity_code": "U",
         "set_code": "CM",
+        "subtypes": [
+            "death-star",
+            "mission"
+        ],
         "text": "After setup, give this plot 20 shields.\nYou can resolve your <i>pilot</i> and <i>vehicle</i> dice showing ranged damage against this plot.\n<b>Action</b> - If this plot has no shields, spend 1 resource to reroll 1 of your <i>pilot</i> dice and 1 of your <i>vehicle</i> dice. Then, if both of those dice are showing damage, you win the game.",
         "type_code": "plot"
     },
