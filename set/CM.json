@@ -156,7 +156,7 @@
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "blue",
-		"flavor": "\"The temple's starting to collapse.\" <cite>Ezra Bridger</cite>"
+        "flavor": "\"The temple's starting to collapse.\" <cite>Ezra Bridger</cite>",
         "has_die": false,
         "has_errata": false,
         "illustrator": "Andreas Zafiratos",
@@ -174,7 +174,7 @@
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "blue",
-		"flavor": "\"Why do you come to my tomb?\" <cite>Darth Bane</cite>"
+        "flavor": "\"Why do you come to my tomb?\" <cite>Darth Bane</cite>",
         "has_die": false,
         "has_errata": false,
         "illustrator": "Alexander Chelyshev",
@@ -192,7 +192,7 @@
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "blue",
-		"flavor": "Elite Praetorian Guards worked in pairs to neutralize and overwhelm their foes."
+        "flavor": "Elite Praetorian Guards worked in pairs to neutralize and overwhelm their foes.",
         "has_die": false,
         "has_errata": false,
         "illustrator": "JB Casacop",
@@ -278,7 +278,7 @@
         "code": "12013",
         "deck_limit": 2,
         "faction_code": "blue",
-        "flavor": "\"I need but a drop for the ritual to begin.\" <cite>Darth Sidious</cite>"
+        "flavor": "\"I need but a drop for the ritual to begin.\" <cite>Darth Sidious</cite>",
         "has_die": false,
         "has_errata": false,
         "illustrator": "David Hovey",
@@ -619,7 +619,7 @@
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "red",
-        "flavor": "\"Do it.\" <cite>Orson Krennic</cite>"
+        "flavor": "\"Do it.\" <cite>Orson Krennic</cite>",
         "has_die": false,
         "has_errata": false,
         "illustrator": "Mark Molnar",
@@ -3511,8 +3511,8 @@
         "rarity_code": "U",
         "set_code": "CM",
         "subtitle": "Savereen",
-        "text": "<b>Power Action</b> - Discard a support or upgrade you control to play a support or upgrade from your hand, decreasing its cost by 1. Then draw a card."
-		"type_code": "battlefield"
+        "text": "<b>Power Action</b> - Discard a support or upgrade you control to play a support or upgrade from your hand, decreasing its cost by 1. Then draw a card.",
+        "type_code": "battlefield"
     },
     {
         "affiliation_code": "neutral",
